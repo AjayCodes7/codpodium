@@ -8,5 +8,5 @@ export default defineConfig({
     sourcemap: false,
   },
   plugins: [react(),tailwindcss()],
-  base:'git@github.com:AjayCodes7/codpodium.git', 
+  base:'/codpodium/', 
 })
